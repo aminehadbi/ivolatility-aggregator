@@ -1,0 +1,277 @@
+Symbol,Industry,Sector
+ABX,Basic Materials,Metals & Mining
+AEM,Basic Materials,Metals & Mining
+AGI,Basic Materials,Metals & Mining
+AR,Basic Materials,Metals & Mining
+ASR,Basic Materials,Metals & Mining
+BTO,Basic Materials,Metals & Mining
+CAS,Basic Materials,Forest Products
+CCO,Basic Materials,Metals & Mining
+CFP,Basic Materials,Forest Products
+CG,Basic Materials,Metals & Mining
+CHE.UN,Basic Materials,Chemicals
+CNL,Basic Materials,Metals & Mining
+DGC,Basic Materials,Metals & Mining
+DPM,Basic Materials,Metals & Mining
+EDR,Basic Materials,Metals & Mining
+EDV,Basic Materials,Metals & Mining
+ELD,Basic Materials,Metals & Mining
+FM,Basic Materials,Metals & Mining
+FNV,Basic Materials,Metals & Mining
+FR,Basic Materials,Metals & Mining
+FVI,Basic Materials,Metals & Mining
+G,Basic Materials,Metals & Mining
+GUY,Basic Materials,Metals & Mining
+HBM,Basic Materials,Metals & Mining
+IFP,Basic Materials,Forest Products
+IMG,Basic Materials,Metals & Mining
+IVN,Basic Materials,Metals & Mining
+K,Basic Materials,Metals & Mining
+KDX,Basic Materials,Metals & Mining
+KL,Basic Materials,Metals & Mining
+LAC,Basic Materials,Metals & Mining
+LIF,Basic Materials,Steel
+LUN,Basic Materials,Metals & Mining
+MAG,Basic Materials,Metals & Mining
+MDI,Basic Materials,Metals & Mining
+MUX,Basic Materials,Metals & Mining
+MX,Basic Materials,Chemicals
+NG,Basic Materials,Metals & Mining
+NGD,Basic Materials,Metals & Mining
+NSU,Basic Materials,Metals & Mining
+NTR,Basic Materials,Agriculture
+OGC,Basic Materials,Metals & Mining
+OR,Basic Materials,Metals & Mining
+OSB,Basic Materials,Forest Products
+OSK,Basic Materials,Metals & Mining
+PAAS,Basic Materials,Metals & Mining
+PG,Basic Materials,Metals & Mining
+PVG,Basic Materials,Metals & Mining
+RFP,Basic Materials,Forest Products
+RUS,Basic Materials,Steel
+SEA,Basic Materials,Metals & Mining
+SJ,Basic Materials,Forest Products
+SMF,Basic Materials,Metals & Mining
+SSL,Basic Materials,Metals & Mining
+SSRM,Basic Materials,Metals & Mining
+SVM,Basic Materials,Metals & Mining
+TECK.B,Basic Materials,Metals & Mining
+THO,Basic Materials,Metals & Mining
+TRQ,Basic Materials,Metals & Mining
+TXG,Basic Materials,Metals & Mining
+U,Basic Materials,Metals & Mining
+UFS,Basic Materials,Forest Products
+WFT,Basic Materials,Forest Products
+WPM,Basic Materials,Metals & Mining
+WTE,Basic Materials,Coal
+BCE,Communication Services,Communication Services
+CCA,Communication Services,Communication Services
+QBR.B,Communication Services,Communication Services
+RCI.B,Communication Services,Communication Services
+SJR.B,Communication Services,Communication Services
+T,Communication Services,Communication Services
+ACQ,Consumer Cyclical,Autos
+ATZ,Consumer Cyclical,Retail - Apparel & Specialty
+CCL.B,Consumer Cyclical,Packaging & Containers
+CGX,Consumer Cyclical,Entertainment
+CJR.B,Consumer Cyclical,Entertainment
+CTC.A,Consumer Cyclical,Retail - Apparel & Specialty
+DHX.B,Consumer Cyclical,Entertainment
+DOO,Consumer Cyclical,Autos
+GC,Consumer Cyclical,Travel & Leisure
+GIL,Consumer Cyclical,Manufacturing - Apparel & Furniture
+GOOS,Consumer Cyclical,Manufacturing - Apparel & Furniture
+HBC,Consumer Cyclical,Retail - Apparel & Specialty
+ITP,Consumer Cyclical,Packaging & Containers
+LNR,Consumer Cyclical,Autos
+MG,Consumer Cyclical,Autos
+MRE,Consumer Cyclical,Autos
+NFI,Consumer Cyclical,Autos
+QSR,Consumer Cyclical,Restaurants
+TCL.A,Consumer Cyclical,Publishing
+TSGI,Consumer Cyclical,Travel & Leisure
+UNS,Consumer Cyclical,Autos
+WPK,Consumer Cyclical,Packaging & Containers
+WPRT,Consumer Cyclical,Autos
+ZZZ,Consumer Cyclical,Retail - Apparel & Specialty
+BCB,Consumer Defensive,Beverages - Non-Alcoholic
+DOL,Consumer Defensive,Retail - Defensive
+EMP.A,Consumer Defensive,Retail - Defensive
+JWEL,Consumer Defensive,Consumer Packaged Goods
+L,Consumer Defensive,Retail - Defensive
+MFI,Consumer Defensive,Consumer Packaged Goods
+MRU,Consumer Defensive,Retail - Defensive
+NWC,Consumer Defensive,Retail - Defensive
+PBH,Consumer Defensive,Consumer Packaged Goods
+SAP,Consumer Defensive,Consumer Packaged Goods
+SOY,Consumer Defensive,Consumer Packaged Goods
+WN,Consumer Defensive,Retail - Defensive
+AAV,Energy,Oil & Gas - E&P
+ALA,Energy,Oil & Gas - Midstream
+ARX,Energy,Oil & Gas - E&P
+BIR,Energy,Oil & Gas - E&P
+BNP,Energy,Oil & Gas - E&P
+BTE,Energy,Oil & Gas - E&P
+CEU,Energy,Oil & Gas - Drilling
+CFW,Energy,Oil & Gas - Services
+CJ,Energy,Oil & Gas - E&P
+CNQ,Energy,Oil & Gas - E&P
+CPG,Energy,Oil & Gas - E&P
+CR,Energy,Oil & Gas - E&P
+CVE,Energy,Oil & Gas - Integrated
+ECA,Energy,Oil & Gas - E&P
+EFX,Energy,Oil & Gas - Services
+ENB,Energy,Oil & Gas - Midstream
+ENF,Energy,Oil & Gas - Midstream
+ERF,Energy,Oil & Gas - E&P
+ESI,Energy,Oil & Gas - Drilling
+FRU,Energy,Oil & Gas - E&P
+GEI,Energy,Oil & Gas - Midstream
+GTE,Energy,Oil & Gas - E&P
+HSE,Energy,Oil & Gas - Integrated
+IMO,Energy,Oil & Gas - Refining & Marketing
+IPL,Energy,Oil & Gas - Midstream
+KEL,Energy,Oil & Gas - E&P
+KEY,Energy,Oil & Gas - Midstream
+KML,Energy,Oil & Gas - Midstream
+MEG,Energy,Oil & Gas - E&P
+MTL,Energy,Oil & Gas - Services
+NVA,Energy,Oil & Gas - E&P
+PD,Energy,Oil & Gas - Services
+PEY,Energy,Oil & Gas - E&P
+PKI,Energy,Oil & Gas - Refining & Marketing
+PONY,Energy,Oil & Gas - E&P
+POU,Energy,Oil & Gas - E&P
+PPL,Energy,Oil & Gas - Midstream
+PSI,Energy,Oil & Gas - Services
+PSK,Energy,Oil & Gas - E&P
+PXT,Energy,Oil & Gas - E&P
+RRX,Energy,Oil & Gas - E&P
+SCL,Energy,Oil & Gas - Services
+SES,Energy,Oil & Gas - Services
+SGY,Energy,Oil & Gas - E&P
+SPE,Energy,Oil & Gas - E&P
+SU,Energy,Oil & Gas - Integrated
+TCW,Energy,Oil & Gas - Services
+TOG,Energy,Oil & Gas - E&P
+TOU,Energy,Oil & Gas - E&P
+TRP,Energy,Oil & Gas - Midstream
+VET,Energy,Oil & Gas - E&P
+VII,Energy,Oil & Gas - E&P
+WCP,Energy,Oil & Gas - E&P
+AD,Financial Services,Credit Services
+BMO,Financial Services,Banks
+BNS,Financial Services,Banks
+CF,Financial Services,Brokers & Exchanges
+CIX,Financial Services,Asset Management
+CM,Financial Services,Banks
+CWB,Financial Services,Banks
+DC.A,Financial Services,Asset Management
+EFN,Financial Services,Credit Services
+GMP,Financial Services,Brokers & Exchanges
+GS,Financial Services,Asset Management
+GWO,Financial Services,Insurance - Life
+HCG,Financial Services,Banks
+IAG,Financial Services,Insurance
+IFC,Financial Services,Insurance - Property & Casualty
+IGM,Financial Services,Asset Management
+LB,Financial Services,Banks
+MFC,Financial Services,Insurance - Life
+MIC,Financial Services,Insurance - Specialty
+NA,Financial Services,Banks
+ONEX,Financial Services,Asset Management
+POW,Financial Services,Insurance - Life
+PWF,Financial Services,Insurance - Life
+RY,Financial Services,Banks
+SLF,Financial Services,Insurance
+TD,Financial Services,Banks
+TRI,Financial Services,Brokers & Exchanges
+X,Financial Services,Brokers & Exchanges
+ACB,Healthcare,Drug Manufacturers
+APH,Healthcare,Drug Manufacturers
+CSH.UN,Healthcare,Health Care Providers
+EXE,Healthcare,Health Care Providers
+GUD,Healthcare,Drug Manufacturers
+LEAF,Healthcare,Drug Manufacturers
+SIA,Healthcare,Health Care Providers
+VRX,Healthcare,Drug Manufacturers
+WEED,Healthcare,Drug Manufacturers
+AC,Industrials,Airlines
+AIM,Industrials,Business Services
+ARE,Industrials,Engineering & Construction
+ATA,Industrials,Industrial Products
+BAD,Industrials,Engineering & Construction
+BBD.B,Industrials,Aerospace & Defense
+BLDP,Industrials,Industrial Products
+CAE,Industrials,Aerospace & Defense
+CHR,Industrials,Airlines
+CNR,Industrials,Transportation & Logistics
+CP,Industrials,Transportation & Logistics
+ECI,Industrials,Consulting & Outsourcing
+FTT,Industrials,Industrial Distribution
+RBA,Industrials,Business Services
+SNC,Industrials,Engineering & Construction
+STB,Industrials,Transportation & Logistics
+STN,Industrials,Engineering & Construction
+TFII,Industrials,Transportation & Logistics
+TIH,Industrials,Industrial Distribution
+WCN,Industrials,Waste Management
+WJA,Industrials,Airlines
+WJX,Industrials,Industrial Distribution
+AAR.UN,Real Estate,REITs
+AIF,Real Estate,Real Estate Services
+BAM.A,Real Estate,Real Estate Services
+BPY.UN,Real Estate,Real Estate Services
+CAR.UN,Real Estate,REITs
+CIGI,Real Estate,Real Estate Services
+CRR.UN,Real Estate,REITs
+CUF.UN,Real Estate,REITs
+D.UN,Real Estate,REITs
+DIR.UN,Real Estate,REITs
+DRG.UN,Real Estate,REITs
+DRM,Real Estate,Real Estate Services
+FCR,Real Estate,Real Estate Services
+GRT.UN,Real Estate,REITs
+HR.UN,Real Estate,REITs
+NVU.UN,Real Estate,REITs
+NWH.UN,Real Estate,REITs
+REF.UN,Real Estate,REITs
+SRU.UN,Real Estate,REITs
+TCN,Real Estate,Real Estate Services
+BB,Technology,Communication Equipment
+CLS,Technology,Computer Hardware
+DSG,Technology,Application Software
+ENGH,Technology,Application Software
+GIB.A,Technology,Application Software
+KXS,Technology,Application Software
+MAXR,Technology,Communication Equipment
+MNW,Technology,Communication Equipment
+OTEX,Technology,Application Software
+REAL,Technology,Application Software
+SHOP,Technology,Application Software
+SW,Technology,Communication Equipment
+AQN,Utilities,Utilities - Independent Power Producers
+ATP,Utilities,Utilities - Independent Power Producers
+BEP.UN,Utilities,Utilities - Independent Power Producers
+BIP.UN,Utilities,Utilities - Regulated
+BLX,Utilities,Utilities - Independent Power Producers
+CPX,Utilities,Utilities - Regulated
+CU,Utilities,Utilities - Regulated
+EMA,Utilities,Utilities - Regulated
+FTS,Utilities,Utilities - Regulated
+H,Utilities,Utilities - Regulated
+INE,Utilities,Utilities - Independent Power Producers
+JE,Utilities,Utilities - Regulated
+NPI,Utilities,Utilities - Independent Power Producers
+RNW,Utilities,Utilities - Independent Power Producers
+SPB,Utilities,Utilities - Regulated
+TA,Utilities,Utilities - Independent Power Producers
+XEG,energy,
+XFN,financials,
+XGD,gold,
+XIU,tsx,
+XSP,sp500 cad hedged,
+ZCN,,
+ZEB,,
+ZSP,,
+ZUT,,
